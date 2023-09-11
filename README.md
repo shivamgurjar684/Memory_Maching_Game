@@ -1,3 +1,3 @@
-# memorymMatching
+# Memory Maching Game
 Play the game here 
-https://rohan-mahajan.github.io/memorymMatching/
+https://shivamgurjar684.github.io/Memory_Maching_Game/
